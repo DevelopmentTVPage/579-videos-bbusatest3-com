@@ -1,5 +1,5 @@
 {
-    "type": "captivate",
+    "type": "tvpage",
     "layout": "home",
     "url": "\/",
     "description": ""

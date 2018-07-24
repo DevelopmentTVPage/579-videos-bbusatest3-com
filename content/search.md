@@ -1,7 +1,7 @@
 {
     "title": "Search",
     "description": "",
-    "type": "captivate",
+    "type": "tvpage",
     "layout": "search",
     "url": "\/search"
 }
