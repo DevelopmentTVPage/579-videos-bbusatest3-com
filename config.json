@@ -1,0 +1,15 @@
+{
+    "title": "BBB USA Test 3",
+    "baseURL": "https:\/\/videos.bbusatest3.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "bbusatest3.com"
+    }
+}
