@@ -1,0 +1,20 @@
+{
+    "title": "Test Channel Z",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1495683191",
+    "date_modified": "1521488027",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "pending",
+    "visibility": "1",
+    "video_type": null,
+    "id": "94530477",
+    "loginId": "1758904",
+    "entityType": "3",
+    "titleTextEncoded": "Test-Channel-Z",
+    "category": null,
+    "settings": "{\"canvasImage\":\"default_canvas3.jpg\",\"colorClass\":\"light\",\"canvasType\":\"gallery\"}",
+    "transcripts": null
+}
